@@ -5,3 +5,4 @@ Utilizing Bootstrap and jQuery, these elements are being pulled in through a CDN
 Projects so far:
 - PHP Contact form (PHP/JS/HTML using jQuery/Bootstrap)
 - PHP custom plugin - acts as a custom code snippet injection (PHP)
+- PHP security plugin - known as padlock this plugin adds a layer of basic security features to your WordPress site.
